@@ -1,13 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
---><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
-  <channel>
-    <title>HandDim Updates</title>
-    <link>https://handdim.lemonsqueezy.com</link>
-    <description>Official HandDim releases.</description>
-    <language>en</language>
-  </channel>
-</rss><!-- sparkle-signatures:
-edSignature: Oa7G/TOUOP9351eoq6Fjpp7g5llJTtPe+/2GqdzZLv6cnGgxPMxZw5RZuEscsHmnQDAWWmbOSFM5wNIbPqSzCA==
-length: 581
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>HandDim Updates</title><link>https://handdim.lemonsqueezy.com</link><item><title>HandDim 1.10.1</title><pubDate>Sat, 14 Nov 2026 18:54:07 -0000</pubDate><sparkle:version>31</sparkle:version><sparkle:shortVersionString>1.10.1</sparkle:shortVersionString><sparkle:minimumSystemVersion>13.0.0</sparkle:minimumSystemVersion><enclosure sparkle:edSignature="hj+7vaM9smIryEK6Vl9AloFHnkdUbc6b83/HYEqavEY/PicIhllOu8Jfg608d/obDSRISzhHM/xgkB4w1uL/DA==" length="2905474" type="application/octet-stream" url="https://github.com/azizedelam/handdim-updates/releases/download/v1.10.1/HandDim-1.10.1.dmg"></enclosure></item></channel></rss><!-- sparkle-signatures:
+edSignature: aUJi6IhwWtEljy697T/c1KZqWgPYKMy8U+aydSlnG0BEmZli6W1suYHQLNiOkM90xe5TBPUbVEWRXwbqewe+Ag==
+length: 1017
 -->
